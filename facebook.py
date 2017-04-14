@@ -41,7 +41,7 @@ def bfs(graf, mulai, tujuan):
         #cek isi antrian
         isi = len(queue)
         if isi == 0:
-            print("Tidak ditemukan")
+            print("Tidak ditemukan ")
 
 
 
